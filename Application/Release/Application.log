@@ -1,0 +1,48 @@
+﻿  pch.cpp
+  LeftWindow.cpp
+  ModelTest.cpp
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(451,42): warning C4305: “=”: 从“double”到“GLfloat”截断
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(452,42): warning C4305: “=”: 从“double”到“GLfloat”截断
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(453,42): warning C4305: “=”: 从“double”到“GLfloat”截断
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(455,42): warning C4305: “=”: 从“double”到“GLfloat”截断
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(456,42): warning C4305: “=”: 从“double”到“GLfloat”截断
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(457,42): warning C4305: “=”: 从“double”到“GLfloat”截断
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(404,9): warning C4101: “flag”: 未引用的局部变量
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(974,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(975,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(976,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(979,17): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1182,20): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1343,23): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1350,49): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1351,49): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1402,17): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1403,19): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1411,28): warning C4305: “=”: 从“double”到“GLfloat”截断
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1413,27): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1423,30): warning C4305: “=”: 从“double”到“GLfloat”截断
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1425,37): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1428,45): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ModelTest.cpp(1429,43): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  ThreeDLine.cpp
+D:\CODE\OOP_Project\Application\Application\ThreeDLine.cpp(225,20): warning C4018: “<”: 有符号/无符号不匹配
+  ThreeDPoint.cpp
+  Application.cpp
+  ApplicationDoc.cpp
+  ApplicationView.cpp
+  BasicGeometry.cpp
+  Camera.cpp
+D:\CODE\OOP_Project\Application\Application\Camera.cpp(79,47): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\Camera.cpp(80,47): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\Camera.cpp(94,28): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\Camera.cpp(100,29): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  ColorSet.cpp
+D:\CODE\OOP_Project\Application\Application\ColorSet.cpp(28,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ColorSet.cpp(29,39): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\CODE\OOP_Project\Application\Application\ColorSet.cpp(30,38): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  MainFrm.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 375 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Application.vcxproj -> D:\CODE\OOP_Project\Application\Release\Application.exe
